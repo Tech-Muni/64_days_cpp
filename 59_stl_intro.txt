@@ -1,0 +1,43 @@
+//It's somewhat related to DSA
+
+STL:- Standard Template Library
+    It's a library of Generic Classes and Function
+    In a hackathon, competetive coding we have time limit.
+    we can use prebuilt classes and functions of a STL and get our job done quick.
+Through STL we can use well tested, optimized components.
+Components of STL:-  they all use template function
+    1. Containers
+        Stores DATA like Vector
+    2. Algorithms
+        ex:- Sorting, Searching
+    3. Iterators
+        it's a object and points to an element in a container
+        Handled just like pointer but it's an object
+        connects alogrithms with container.
+Example:-
+a container  =>  [1|7|12|18|42]
+
+Types of Containers:-
+    1. Sequence Containers
+        stores data in linear fashion  A -> B -> C -> D -> E like this
+        Ex: Vector, List, Dequeue
+    2. Associative Containers
+        Gives us direct access to data.
+        Ex: map, multi map, set, multi set
+    3. Derived Containers
+        derived from Sequence or Associative containers and do real world modeling
+        Ex: Stack(lifo), Queue(fifo), Priority Queue
+When use which one?
+    Sequence Containers:-
+        Vectors:-
+            Random access -> Fast
+            Insertion, Deletetion in middle -> Slow
+            Insertion, Deletetion in end -> Fast
+        List:-
+            Random access -> Slow
+            Insertion, Deletetion in middle -> Fast
+            Insertion, Deletetion in end -> Fast
+    Associative Containers:-
+        All operations are fast except Random access.
+    Derived Containers:-
+        We've to do analysis every time.

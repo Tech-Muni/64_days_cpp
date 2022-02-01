@@ -1,0 +1,10 @@
+OOPS! gonna make our life easier.
+make bug free and improve readability
+Some cool level terminologies in oops are
+Classes:- it's Basic template to define our object       (revise structure)
+Objects:- Run time entities
+Data Abstraction & Encapsulation:- wrapping data into single unit
+Inheritance:- take some properties from different class to make new class.
+Polymorphism:- Ability to take more than one forms
+Dynamic Binding:- output is dependent after running
+Message Parsing:- passing data b/w different objects.

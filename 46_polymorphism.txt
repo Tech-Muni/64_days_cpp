@@ -1,0 +1,11 @@
+Polymorphim:- Means many form.
+    one name multiple forms.
+    revise 18_function_overloading.cpp
+    it's examples are function overloading, operator overloading and virtual functions.
+
+    Types of polymorphism:-
+        1. Compile Time:-      (aka)Early Binding, Static Binding.
+            a. Function Overloading
+            b. Operator Overloading
+        2. Run Time:-          (aka)Late Binding
+            a. Virtual Function

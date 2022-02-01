@@ -1,0 +1,14 @@
+Hmm so is it end of cpp?
+100% not.
+Here are some usefull questions...
+https://stackoverflow.com/questions/1452721/why-is-using-namespace-std-considered-bad-practice
+https://isocpp.org/wiki/faq/coding-standards#using-namespace-std
+https://stackoverflow.com/questions/213907/stdendl-vs-n
+https://stackoverflow.com/questions/1785416/c-naming-read-input-vs-readinput
+
+
+Some website to get help when you stuck...
+https://stackoverflow.com/
+https://isocpp.org/
+https://en.cppreference.com/w/
+https://www.cplusplus.com/
